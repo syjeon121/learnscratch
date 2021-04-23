@@ -1,5 +1,7 @@
-# src-ver2
+# learnscratch
+
 CUDA-based deep learning code
+
 the following layers, functions are supported in this repo:
 * training/inference
 * convolution
